@@ -14,6 +14,13 @@
     <td>Hunter College</td>
   </tr>
 </table>
+
+## Personal Information
+
+- **Name:** Riyuan Liu
+- **Major:** Computer Science
+- **College:** Hunter College
+  
 ## My Journey as a Programmer
 
   <img align="right" alt="GIF" src="https://github.com/Riyuanliu/Riyuanliu/blob/main/Codinggif.gif" width="500" height="320" />
