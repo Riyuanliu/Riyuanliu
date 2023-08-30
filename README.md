@@ -14,9 +14,9 @@
     <td>Hunter College</td>
   </tr>
 </table>
-
 ## My Journey as a Programmer
 
+  <img align="right" alt="GIF" src="" width="500" height="320" />
 I've always been fascinated by the world of computers and technology. From a young age, I was intrigued by how lines of code could bring ideas to life on a screen. My journey in the field of computer science began during my college years at Hunter College.
 
 Through countless hours of coding, debugging, and problem-solving, I've honed my skills in various programming languages and gained a deep understanding of data structures and algorithms. My passion lies in creating efficient and elegant solutions to complex problems.
