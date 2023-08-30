@@ -24,3 +24,15 @@ Through countless hours of coding, debugging, and problem-solving, I've honed my
 One of my most exciting projects was developing a web application that streamlined data analysis for a research team. This project allowed me to leverage my programming skills to make a real-world impact. The satisfaction of seeing my code contribute to meaningful results further fueled my desire to excel as a programmer.
 
 I thrive in collaborative environments where I can learn from others and contribute my expertise. I'm a firm believer in the power of open source, and I actively contribute to projects that align with my interests. I'm excited to continue exploring new technologies, refining my skills, and making a positive mark on the world through my passion for programming.
+## Tools
+
+Here are some of the tools I frequently use in my projects and daily work:
+
+- **C++**
+- **Python**
+- **Adobe Photoshop**
+- **GitHub**
+- **Visual Studio Code (VScode)**
+- **Adobe Fireworks**
+- **Microsoft Excel**
+- **Microsoft Word**
