@@ -80,7 +80,36 @@
 -----
 
 <br>
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/Riyuanliu/Tetris-by-Riyuan-Liu">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Tetris-by-Riyuan-Liu&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/Riyuanliu/AdvancedTextFormattingApplication">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=AdvancedTextFormattingApplication&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Riyuanliu/CGPA">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=CGPA&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+  </p>
+</div>
+</details>
+
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -104,7 +133,7 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Riyuanliu/Riyuanliu/raw/main/assets/mdImages/handshake.gif" width ="80">
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/Riyuanliu/Riyuanliu/blob/main/1000_F_274449475_covoxKcElepJnQ34dT4ExBL6CChjocBG.jpeg" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:riyuanliu31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Riyuanliu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
