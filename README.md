@@ -127,8 +127,8 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/Riyuanliu/Riyuanliu/raw/main/assets/mdImages/handshake.gif" width ="80">
-## <picture> <img src="https://github.com/Riyuanliu/Riyuanliu/blob/main/1000_F_274449475_covoxKcElepJnQ34dT4ExBL6CChjocBG.jpeg" width="100px"> </picture> Connect with me
+## <b> Let's Connect..!</b><img src="https://github.com/Riyuanliu/Riyuanliu/raw/main/assets/mdImages/handshake.gif" width ="40">
+## <picture> <img src="https://github.com/Riyuanliu/Riyuanliu/blob/main/1000_F_274449475_covoxKcElepJnQ34dT4ExBL6CChjocBG.jpeg" width="50px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:riyuanliu31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Riyuanliu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
