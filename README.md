@@ -18,9 +18,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- :school:I am a `Junior` at Hunter College
+- :technologist: I love using Software to get solution for every `Problem`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
 - Currently learning Web Development by Self
+- thinking: I’m currently open for a new `job opportunity`
 
 <br><br>
 
@@ -101,27 +104,13 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/Riyuanliu/Riyuanliu/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/riyuan-liu-9896981b1/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Riyuanliu-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-
-<br>
-
-<li>
-<a href="mailto:Riyuanliu31@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Riyuanliu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:riyuanliu31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Riyuanliu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/riyuan-liu-9896981b1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/riyuan_liu/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 	
 </ul>
 </div>
