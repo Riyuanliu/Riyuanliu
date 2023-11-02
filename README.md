@@ -23,7 +23,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - Currently learning Web Development by Self
-- thinking: I’m currently open for a new `job opportunity`
+- :thinking: I’m currently open for a new `job opportunity`
 
 <br><br>
 
