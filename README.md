@@ -95,7 +95,7 @@
     	<a href="https://github.com/Riyuanliu/CGPA">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=CGPA&theme=tokyonight" alt="GitHub Stats" />
 	</a>
-	<a href="https://github.com/Riyuanliu/CGPA">
+	<a href="https://github.com/Riyuanliu/Russian-Roulette">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Russian-Roulette&theme=tokyonight" alt="GitHub Stats" />
 	</a>
    	
