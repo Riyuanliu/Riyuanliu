@@ -101,7 +101,7 @@
  	<a href="https://github.com/Riyuanliu/Number-Guessing-game">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Number-Guessing-game&theme=tokyonight" alt="GitHub Stats" />
 	</a>
- 	<a href="https://github.com/Riyuanliu/SudokuSolver ">
+ 	<a href="https://github.com/Riyuanliu/SudokuSolver">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Number-SudokuSolver &theme=tokyonight" alt="GitHub Stats" />
 	</a>
    	
