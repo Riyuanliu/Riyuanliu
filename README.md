@@ -98,6 +98,9 @@
 	<a href="https://github.com/Riyuanliu/Russian-Roulette">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Russian-Roulette&theme=tokyonight" alt="GitHub Stats" />
 	</a>
+ 	<a href="https://github.com/Riyuanliu/Number-Guessing-game">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyuanliu&repo=Number-Guessing-game&theme=tokyonight" alt="GitHub Stats" />
+	</a>
    	
   </p>
 </div>
