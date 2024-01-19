@@ -17,13 +17,15 @@
 <picture> <img align="right" src="https://github.com/Riyuanliu/Riyuanliu/blob/main/09c62903beeba336dc9da76eb5c9a107.gif" width = 250px></picture>
 
 <br>
-
+- This is my Personal Website[https://riyuanliu.com](https://riyuanliu.com)
+- Check out my Portfolio [https://riyuanliu.github.io/](https://riyuanliu.github.io/)
 - :school:I am a `Junior` at Hunter College
 - :technologist: I love using Software to get solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - Currently learning Web Development by Self
 - :thinking: I’m currently open for a new `job opportunity`
+
 
 <br><br>
 
