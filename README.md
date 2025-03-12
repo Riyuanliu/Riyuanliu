@@ -20,11 +20,10 @@
 
 - This is my Personal Website[https://riyuanliu.com](https://riyuanliu.com)
 - Check out my Portfolio [https://riyuanliu.github.io/](https://riyuanliu.github.io/)
-- :school:I am a `Junior` at Hunter College
+- :school:I am a `Senior` at Hunter College
 - :technologist: I love using Software to get solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- Currently learning Web Development by Self
 - :thinking: I’m currently open for a new `job opportunity`
 
 
